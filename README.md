@@ -43,7 +43,7 @@ Follow these steps to get the project up and running on your local system:
 
 1. Clone the repository to your local machine:
 ```bash
-  
+  https://github.com/SinhaKhushiTheRockc2/Contact-List-React-App
 ```
 2. Navigate to the root directory of the project:
 
@@ -53,7 +53,7 @@ Follow these steps to get the project up and running on your local system:
 ```
 4. Start the development server
 ```bash 
-    npm Start
+    npm start
 ```
 5. Open your web browser and go to http://localhost:3000 to see the application in action.
 
